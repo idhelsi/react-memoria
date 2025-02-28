@@ -4,6 +4,13 @@ Este projeto foi feito em aula do curso [B7Web](https://b7web.com.br).
 
 ## Available Scripts
 
+Execute o seguinte comando em seu ambiente local:
+
+``` bash
+cd my-project-name
+npm install
+```
+
 In the project directory, you can run:
 
 ### `npm start`
