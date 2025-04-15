@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import * as C from './App.styles'
 
-import logoImage from './assets/devmemory_logo.png'
 import RestartIcon from './svgs/restart.svg'
 
 import { Button } from './components/Button';
@@ -107,7 +106,7 @@ function App() {
     <C.Container>
       <C.Info>
         <C.LogoLink href="">
-          <img src={logoImage} width='200' alt="" />
+          
         </C.LogoLink>
 
         <C.InfoArea>
