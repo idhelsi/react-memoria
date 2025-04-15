@@ -1,38 +1,11 @@
-# Jogo da Memória 
+# Jogo da Memória
 
-Este projeto foi feito em aula do curso [B7Web](https://b7web.com.br).
+Este é um jogo da memória desenvolvido em React com TypeScript. O objetivo é encontrar pares de imagens em um tabuleiro. O jogo conta com um cronômetro e um contador de movimentos. A interface é responsiva, utilizando styled-components para estilização.
 
-## Available Scripts
+## Como usar
 
-Execute o seguinte comando em seu ambiente local:
+1. Clone o repositório.
+2. Instale as dependências com `npm install`.
+3. Inicie o projeto com `npm start`.
 
-``` bash
-cd my-project-name
-npm install
-```
-
-In the project directory, you can run:
-
-```
-npm start`
-```
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-```
-npm run build
-```
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
+Divirta-se!
